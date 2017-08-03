@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/category_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="32dp"
+        android:text="Project Lead"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_margin="32dp"
+            android:src="@drawable/wayne"
+            android:layout_width="224dp"
+            android:layout_height="224dp"
+            app:civ_border_width="8dp"
+            app:civ_border_color="@color/colorPrimary"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold|italic"
+            android:text="Wayne Tee, 2017"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:padding="32dp"
+        android:lineSpacingMultiplier="1.5"
+        android:typeface="serif"
+        android:textSize="@dimen/text_size_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/leads"/>
+
+</LinearLayout>

@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">SchoolTVProjectAbout</string>
+    <string name="background">\tThis interactive display project is founded, funded and run by students with the support of the school. Aimed to benefit staff, students and visitors, this project was started in January 2017 and the display was launched in August 2017. This system runs on an android TV box with an IR touchscreen.
+        \n\n\tAll the apps are developed by our very own students, as personal projects, IRPs, or module projects integrated into our Computing Studies (CS) curriculum. We hope that this project will give our CS students an opportunity to contribute meaningfully to the school.
+        \n\n\tWe appreciate the strong support from Senior Management, Estate team and IT department. We would also like to thank the CS department for their dedication towards CS education and their inspiration, guidance and support during this project. This project is not possible without their hard work.
+    </string>
+    <string-array name="timeline_titles">
+        <item>Jan 2017</item>
+        <item>Feb 2017</item>
+        <item>Mar 2017</item>
+        <item>May 2017</item>
+        <item>Jun 2017</item>
+        <item>Jul 2017</item>
+        <item>Aug 2017</item>
+    </string-array>
+    <string-array name="timeline_contents">
+        <item>The project was conceptualised and primary research was done</item>
+        <item>Senior management approved the project
+        \nThe overlay was purchased online
+        \nCS students invite to contribute to this project</item>
+        <item>Android box was purchased
+        \nFirst successful testing of the hardware was completed on 4th March</item>
+        <item>Apps allocation amongst student developers completed</item>
+        <item>Launcher was tested and is working well</item>
+        <item>App testing completed
+        \nFabrication work</item>
+        <item>Launch of this display</item>
+    </string-array>
+    <string name="department_information">\tStarting from a single CS teacher and two programming electives in 2008, CS education in NUS High School has grown rapidly in the past 10 years to the 6-year curriculum it is today. Since July 2017, Computing is an independent academic department in NUS High.
+
+\n\n\tLed by Mrs Phylliscia Lee, there are 4 passionate educators in the CS department, Mr Chua Eng Siong Claude, Mr Li Da and Mr Ng Chee Loong. With their diverse background and complementary
+
+strengths, our CS teaching team provides a wide range of modules, with topics ranging from algorithmic skills to hands-on hardware, from mobile app development to data analytics.
+
+\n\n\tWith the strong belief of cultivating computational thinking skills in every NUS High student, a core module “Computational Thinking” is offered to all Year 1 students. Via this module, students will be exposed to three key areas in Computer Science: 1) Problem Solving, 2) Programming Principles &amp; Concepts and 3) Data Skills.
+
+\n\n\tIn addition to the core academic curriculum, the department also offers various programmes to cater to different needs of students. They include:
+
+\n\t\t· Outreach activities such as CS Science Masterclass where NUS High CS students mentor and guide primary school children on related CS projects, and Values-In-Action projects where NUS High students conducts coding lessons or workshops for public.
+
+\n\t\t· Student Enrichment such as visits to infocomm companies like Google and talks conducted by CS Professors from Institutes of Higher Learning
+
+\n\t\t· Infocomm Competitions
+
+\n\t\t· Talent Development Programme where students passionate about algorithms will undergo Informatics Olympiad Training</string>
+        <string name="donors">
+2016
+
+\n1st runner up, NIC Face-Off | Coding – Ace of Coders
+\n\nWayne Tee and Feng Xinyuan
+
+\nChampion + Best Insights Award, NIC Face-off | Data Analytics Competition
+\n\nWayne Tee, Daniel Sim and Choo Yi Kai
+
+\nThe four students above donated $100 each.</string>
+    <string name="leads">
+        Wayne believes in using technology to make life better. Interested in everything from cryptography to web development, he looks forward to the exciting world ahead. Wayne hopes that this project will benefit you whether you are a visitor, staff or student.
+    </string>
+
+    <string-array name="developer_titles">
+        <item>Launcher</item>
+        <item>Sleep Screen</item>
+        <item>About the School</item>
+        <item>Feedback about the Interactive Display</item>
+        <item>Noticeboard for Announcements and Events</item>
+        <item>Place of Interest</item>
+        <item>About this Project</item>
+        <item>AppVenture App</item>
+        <item>Acrylic Case</item>
+    </string-array>
+    <string-array name="developer_contents">
+        <item>Ambrose Chua (Year 5, 2017)
+            \nLiu Hanpu (Year 5, 2017)
+            \nLim Shi Hern (Year 5, 2017)
+        </item>
+        <item>Cao Ngoc Linh (Year 4, 2017)
+            \nAndrew Yapp (Year 4, 2017)
+            \nShane Ong (Year 4, 2017)
+        </item>
+        <item>Tay Kai Jun (Year 5, 2017)
+            \nOwen Leong (Year 5, 2017)
+            \nDaniel Lim (Year 5, 2017)
+            \nJeff Sieu (Year 5, 2017)
+        </item>
+        <item>Jeffrey Lee (Year 4, 2017)
+        \nChong Jing Quan (Year 5, 2017)</item>
+        <item>Daniel Lau (Year 5, 2017)</item>
+        <item>Wong Kok Rui (Year 4, 2017)</item>
+        <item>Jeff Sieu (Year 5, 2017)</item>
+        <item>Ng Zi Xuan (Year 6, 2017)</item>
+        <item>Ambrose Chua (Year 5, 2017)</item>
+    </string-array>
+    <string name="about_tech">
+        \tInfrared touch screens operate on the basis of light-beam interruption, commonly referred to as beam break, to determine the location of touch events. They are perimeter based but differ from other perimeter based technologies such as Surface Acoustic Wave, in that they use infrared light beams and not ultrasonic waves.
+\n\n\tIn infrared touch screens, Light Emitting Diodes (LEDs) are placed on one side of the bezel and light sensors are placed on the opposite side in a one-to-one ratio. As an object touches the screen, it interrupts the light-beam causing a loss of light at the sensor. This loss of light is used to determine the location of the touch event. The LEDs and sensors are laid out in a grid so that each touch event breaks two beams, giving an X and a Y coordinate. These two coordinates are then correlated to determine the location of the touch occurring on the screen.</string>
+
+    <!-- Dimensions for timeline -->
+    <dimen name="timeline_line_width">16dp</dimen>
+    <dimen name="timeline_circle_width">32dp</dimen>
+    <dimen name="timeline_half_circle_width">16dp</dimen>
+    <dimen name="timeline_margin_top_circle">32dp</dimen>
+    <dimen name="timeline_margin_top_line">48dp</dimen>
+    <dimen name="timeline_line_circle_width">96dp</dimen>
+
+    <dimen name="text_size_body">16sp</dimen>
+</resources>
