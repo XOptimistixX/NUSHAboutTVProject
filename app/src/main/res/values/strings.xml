@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SchoolTVProjectAbout</string>
+    <string name="app_name">About</string>
     <string name="background">\tThis interactive display project is founded, funded and run by students with the support of the school. Aimed to benefit staff, students and visitors, this project was started in January 2017 and the display was launched in August 2017. This system runs on an android TV box with an IR touchscreen.
         \n\n\tAll the apps are developed by our very own students, as personal projects, IRPs, or module projects integrated into our Computing Studies (CS) curriculum. We hope that this project will give our CS students an opportunity to contribute meaningfully to the school.
         \n\n\tWe appreciate the strong support from Senior Management, Estate team and IT department. We would also like to thank the CS department for their dedication towards CS education and their inspiration, guidance and support during this project. This project is not possible without their hard work.
