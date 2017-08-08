@@ -43,49 +43,53 @@ strengths, our CS teaching team provides a wide range of modules, with topics ra
 \n\t\t· Infocomm Competitions
 
 \n\t\t· Talent Development Programme where students passionate about algorithms will undergo Informatics Olympiad Training</string>
-        <string name="donors">
-2016
-
-\n1st runner up, NIC Face-Off | Coding – Ace of Coders
-\n\nWayne Tee and Feng Xinyuan
-
-\nChampion + Best Insights Award, NIC Face-off | Data Analytics Competition
-\n\nWayne Tee, Daniel Sim and Choo Yi Kai
-
-\nThe four students above donated $100 each.</string>
+    <string name="donors"><b>1st runner up, NIC Face-Off | Coding – Ace of Coders</b>
+        \nWayne Tee and Feng Xinyuan
+        \n
+        \n<b>Champion + Best Insights Award, NIC Face-off | Data Analytics Competition</b>
+        \nWayne Tee, Daniel Sim and Choo Yi Kai
+        \n
+        \nThe four students above donated $100 each.
+    </string>
     <string name="leads">
         Wayne believes in using technology to make life better. Interested in everything from cryptography to web development, he looks forward to the exciting world ahead. Wayne hopes that this project will benefit you whether you are a visitor, staff or student.
     </string>
 
     <string-array name="developer_titles">
         <item>Launcher</item>
-        <item>Sleep Screen</item>
-        <item>About the School</item>
-        <item>Feedback about the Interactive Display</item>
-        <item>Noticeboard for Announcements and Events</item>
+        <item>Home Screen</item>
+        <item>School Map</item>
+        <item>Feedback</item>
+        <item>Announcements</item>
         <item>Place of Interest</item>
         <item>About this Project</item>
         <item>AppVenture App</item>
-        <item>Acrylic Case</item>
+        <item>Acrylic Case and Plaque</item>
     </string-array>
     <string-array name="developer_contents">
         <item>Ambrose Chua (Year 5, 2017)
-            \nLiu Hanpu (Year 5, 2017)
             \nLim Shi Hern (Year 5, 2017)
+            \nLiu Hanpu (Year 5, 2017)
         </item>
-        <item>Cao Ngoc Linh (Year 4, 2017)
-            \nAndrew Yapp (Year 4, 2017)
+        <item>Andrew Yapp (Year 4, 2017)
+            \nCao Ngoc Linh (Year 4, 2017)
             \nShane Ong (Year 4, 2017)
         </item>
-        <item>Tay Kai Jun (Year 5, 2017)
-            \nOwen Leong (Year 5, 2017)
-            \nDaniel Lim (Year 5, 2017)
+        <item>
+            Daniel Lim (Year 5, 2017)
             \nJeff Sieu (Year 5, 2017)
+            \nOwen Leong (Year 5, 2017)
+            \nTay Kai Jun (Year 5, 2017)
         </item>
-        <item>Jeffrey Lee (Year 4, 2017)
-        \nChong Jing Quan (Year 5, 2017)</item>
+        <item>
+            Chong Jing Quan (Year 5, 2017)
+            \nJeffrey Lee (Year 4, 2017)
+        </item>
         <item>Daniel Lau (Year 5, 2017)</item>
-        <item>Wong Kok Rui (Year 4, 2017)</item>
+        <item>
+            Wong Kok Rui (Year 4, 2017)
+            \nZayne Siew (Year 4, 2017)
+        </item>
         <item>Jeff Sieu (Year 5, 2017)</item>
         <item>Ng Zi Xuan (Year 6, 2017)</item>
         <item>Ambrose Chua (Year 5, 2017)</item>
