@@ -15,7 +15,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private int wayneClicks = 0;
-    private static final int REQUIRED_CLICKS = 2, MILLIS_BEFORE_RESET = 2000;
+    private static final int REQUIRED_CLICKS = 10, MILLIS_BEFORE_RESET = 2000;
     private CountDownTimer timer;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         Person owen =       new Person("Owen Leong", "Year 5, 2017", getDrawable(R.drawable.owen));
         Person zayne =      new Person("Zayne Siew", "Year 4, 2017", getDrawable(R.drawable.zayne));
         Person ziXuan =     new Person("Ng Zi Xuan", "Year 6, 2017", getDrawable(R.drawable.zixuan));
-        final Person wayne =      new Person("Wayne Tee", "Year 5, 2016", getDrawable(R.drawable.wayne2));
+        Person wayne =      new Person("Wayne Tee", "Year 5, 2016", getDrawable(R.drawable.wayne2));
         Person jingXuan =   new Person("Tay Jing Xuan", "Year 5, 2016", getDrawable(R.drawable.jingxuan));
 
 
@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         mDeveloperRecyclerView.setAdapter(new AppAdapter(this, apps));
-        mDeveloperRecyclerView.setLayoutManager(new StaggeredGridLayoutManager(3, StaggeredGridLayoutManager.VERTICAL));
+        mDeveloperRecyclerView.setLayoutManager(new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL));
 
 
         View wayneFace = findViewById(R.id.face);
