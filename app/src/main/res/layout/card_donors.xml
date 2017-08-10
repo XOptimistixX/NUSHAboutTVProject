@@ -30,7 +30,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/white"
-                android:text="From left to right: Choo Yi Kai, Daniel Sim, Feng Xinyuan and Wayne Tee; 2016"
+                android:text="From left to right: Choo Yi Kai, Daniel Sim, Feng Xinyuan and Wayne Tee; 2017"
                 android:background="#7F000000"/>
 
         </RelativeLayout>

@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">About</string>
-    <string name="background">\tThis interactive display project is founded, funded and run by students with the support of the school. Aimed to benefit staff, students and visitors, this project was started in January 2017 and the display was launched in August 2017. This system runs on an android TV box with an IR touchscreen.
-        \n\n\tAll the apps are developed by our very own students, as personal projects, IRPs, or module projects integrated into our Computing Studies (CS) curriculum. We hope that this project will give our CS students an opportunity to contribute meaningfully to the school.
-        \n\n\tWe appreciate the strong support from Senior Management, Estate team and IT department. We would also like to thank the CS department for their dedication towards CS education and their inspiration, guidance and support during this project. This project is not possible without their hard work.
+    <string name="background">\tThis interactive display project is founded, funded, and run by students with the support of the school. Aimed to benefit staff, students, and visitors, this project was started in January 2017 and the display was launched in August 2017. This system runs on an Android TV box with an infrared touch frame.
+        \n\n\tAll the apps have been developed by our very own students, as personal projects, IRPs, or module projects integrated into our Computing Studies (CS) curriculum. We hope that this project will give our CS students an opportunity to contribute meaningfully to the school.
+        \n\n\tWe appreciate the strong support from Senior Management, Estate team, and IT department. We would also like to thank the CS department for their dedication towards CS education and their inspiration, guidance, and support during this project. This project is not possible without their hard work.
     </string>
     <string-array name="timeline_titles">
         <item>Jan 2017</item>
@@ -14,35 +14,35 @@
         <item>Aug 2017</item>
     </string-array>
     <string-array name="timeline_contents">
-        <item>The project was conceptualised and primary research was done</item>
-        <item>Senior management approved the project
-        \nThe overlay was purchased online
-        \nCS students invite to contribute to this project</item>
-        <item>Android box was purchased
-        \nFirst successful testing of the hardware was completed on 4th March</item>
-        <item>Apps allocation amongst student developers completed</item>
-        <item>Launcher was tested and is working well</item>
-        <item>App testing completed
-        \nFabrication work</item>
-        <item>Launch of this display</item>
+        <item>Project conceptualised and primary research conducted</item>
+        <item>Project approved by Senior Management
+        \nOverlay purchased online
+        \nCS students invited to contribute to this project</item>
+        <item>Android box purchased
+        \nFirst successful testing of the hardware completed on 4th March</item>
+        <item>App allocation amongst student developers completed</item>
+        <item>Launcher tests performed</item>
+        <item>App testing started
+        \nFabrication work carried out</item>
+        <item>Display launched</item>
     </string-array>
     <string name="department_information">\tStarting from a single CS teacher and two programming electives in 2008, CS education in NUS High School has grown rapidly in the past 10 years to the 6-year curriculum it is today. Since July 2017, Computing is an independent academic department in NUS High.
 
-\n\n\tLed by Mrs Phylliscia Lee, there are 4 passionate educators in the CS department, Mr Chua Eng Siong Claude, Mr Li Da and Mr Ng Chee Loong. With their diverse background and complementary
+\n\n\tLed by Mrs Phylliscia Lee, there are 3 other passionate educators in the CS department, Mr Chua Eng Siong Claude, Mr Li Da and Mr Ng Chee Loong. With their diverse background and complementary
 
 strengths, our CS teaching team provides a wide range of modules, with topics ranging from algorithmic skills to hands-on hardware, from mobile app development to data analytics.
 
-\n\n\tWith the strong belief of cultivating computational thinking skills in every NUS High student, a core module “Computational Thinking” is offered to all Year 1 students. Via this module, students will be exposed to three key areas in Computer Science: 1) Problem Solving, 2) Programming Principles &amp; Concepts and 3) Data Skills.
+\n\n\tWith the strong belief of cultivating computational thinking skills in every NUS High student, a core module “Computational Thinking” is offered to all Year 1 students. Via this module, students will be exposed to three key areas in Computer Science: 1) Problem Solving, 2) Programming Principles &amp; Concepts, and 3) Data Skills.
 
 \n\n\tIn addition to the core academic curriculum, the department also offers various programmes to cater to different needs of students. They include:
 
-\n\t\t· Outreach activities such as CS Science Masterclass where NUS High CS students mentor and guide primary school children on related CS projects, and Values-In-Action projects where NUS High students conducts coding lessons or workshops for public.
+\n\t\t· Outreach activities such as CS Science Masterclass where NUS High CS students mentor and guide primary school children on related CS projects, and Values-In-Action projects, where NUS High students conduct coding lessons or workshops for the public
 
-\n\t\t· Student Enrichment such as visits to infocomm companies like Google and talks conducted by CS Professors from Institutes of Higher Learning
+\n\t\t· Student enrichment such as visits to infocomm companies such as Google, and talks conducted by CS Professors from Institutes of Higher Learning
 
-\n\t\t· Infocomm Competitions
+\n\t\t· Infocomm competitions
 
-\n\t\t· Talent Development Programme where students passionate about algorithms will undergo Informatics Olympiad Training</string>
+\n\t\t· Talent Development Programme, where students passionate about algorithms will undergo Informatics Olympiad Training</string>
     <string name="donors"><b>1st runner up, NIC Face-Off | Coding – Ace of Coders</b>
         \nWayne Tee and Feng Xinyuan
         \n

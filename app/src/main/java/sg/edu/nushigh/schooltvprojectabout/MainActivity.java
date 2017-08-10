@@ -15,7 +15,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private int wayneClicks = 0;
-    private static final int REQUIRED_CLICKS = 10, MILLIS_BEFORE_RESET = 2000;
+    private static final int REQUIRED_CLICKS = 20, MILLIS_BEFORE_RESET = 2000;
     private CountDownTimer timer;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,10 +65,10 @@ public class MainActivity extends AppCompatActivity {
         App feedback = new App("Feedback", feedbackPeople);
         App announcements = new App("Announcements", announcementsPeople);
         App busTimings = new App("Bus Timings", busTimingsPeople);
-        App poi = new App("Places of interest", poiPeople);
+        App poi = new App("Places of Interest", poiPeople);
         App about = new App("About", aboutPeople);
-        App appventure = new App("Appventure App", appventurePeople);
-        App acrylic = new App("Acrylic case and plaque", acrylicPeople);
+        App appventure = new App("AppVenture App", appventurePeople);
+        App acrylic = new App("Acrylic Case and Plaque", acrylicPeople);
 
         launcherPeople.add(ambrose);
         launcherPeople.add(shiHern);

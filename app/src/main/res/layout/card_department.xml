@@ -26,7 +26,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/white"
-                android:text="From left to right: Mrs Phylliscia Lee, Mr Claude Chua, Mr Ng Chee Loong, Mr Li Da; 2016"
+                android:text="From left to right: Mrs Phylliscia Lee, Mr Chua Eng Siong Claude, Mr Ng Chee Loong, Mr Li Da; 2017"
                 android:background="#7F000000"/>
 
         </RelativeLayout>

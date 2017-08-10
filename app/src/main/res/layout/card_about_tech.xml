@@ -43,7 +43,6 @@
                 <TextView
                     android:padding="32dp"
                     android:lineSpacingMultiplier="1.5"
-                    android:typeface="serif"
                     android:textSize="@dimen/text_size_body"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

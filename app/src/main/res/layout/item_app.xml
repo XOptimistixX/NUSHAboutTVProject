@@ -6,10 +6,11 @@
 
     <TextView
         android:id="@+id/item_app_title"
+        android:textColor="@color/colorPrimary"
         android:layout_marginTop="8dp"
         android:gravity="bottom"
         android:layout_marginLeft="88dp"
-        android:textSize="14sp"
+        android:textSize="16sp"
         android:textStyle="bold"
         android:text="Interactive Display Project"
         android:layout_width="match_parent"
